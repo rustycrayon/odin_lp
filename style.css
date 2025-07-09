@@ -18,7 +18,7 @@ body {
 }
 
 .header, .section-1, footer {
-    background-color: #1f2937;
+    background-color: #060525;
     color: #f9faf8;
 }
 
@@ -110,7 +110,7 @@ a {
     justify-content: space-between;
     align-items: center;
     color: #f9faf8;
-    background-color: #3882F6;
+    background-color: #B80C09;
     width: 850px;
     padding: 50px 120px;
     border-radius: 8px;
@@ -146,7 +146,7 @@ img {
 }
 
 .button, .button-2 {
-    background-color: #3882F6;
+    background-color: #B80C09;
     color: #f9faf8;
     font-size: 18px;
     border-radius: 8px;
