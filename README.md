@@ -1,5 +1,5 @@
 # odin_lp
 Image credits:
-Adrien Olichon: https://unsplash.com/@adrienolichon
+Solen Feyissa: https://unsplash.com/@solenfeyissa
 
       
